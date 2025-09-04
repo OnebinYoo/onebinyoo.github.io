@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: 하우 # the main title
 
-tagline: 웹 해킹에 대한 기술과 기법 공부 # it will display as the subtitle
+tagline: 웹 해킹 공부 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich web hacking for study.
@@ -34,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: 유원빈
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
